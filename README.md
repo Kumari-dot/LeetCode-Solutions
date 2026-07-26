@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Kumari-dot/LeetCode-Solutions/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/Kumari-dot/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [1952-three-divisors](https://github.com/Kumari-dot/LeetCode-Solutions/tree/master/1952-three-divisors) |
 ## Enumeration
 |  |
