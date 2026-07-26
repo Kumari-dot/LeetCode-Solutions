@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/Kumari-dot/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Kumari-dot/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Kumari-dot/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Prefix Sum
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/Kumari-dot/LeetCode-Solutions/tree/master/0704-binary-search) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Kumari-dot/LeetCode-Solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
