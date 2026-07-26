@@ -53,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Kumari-dot/LeetCode-Solutions/tree/master/0796-rotate-string) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Kumari-dot/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
