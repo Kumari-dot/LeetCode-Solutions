@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Kumari-dot/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [1920-build-array-from-permutation](https://github.com/Kumari-dot/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Kumari-dot/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 ## String
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Kumari-dot/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Kumari-dot/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [0258-add-digits](https://github.com/Kumari-dot/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [1952-three-divisors](https://github.com/Kumari-dot/LeetCode-Solutions/tree/master/1952-three-divisors) |
 ## Enumeration
 |  |
@@ -66,5 +68,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Kumari-dot/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [1952-three-divisors](https://github.com/Kumari-dot/LeetCode-Solutions/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
