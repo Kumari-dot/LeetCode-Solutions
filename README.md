@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kumari-dot/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/Kumari-dot/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Kumari-dot/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Kumari-dot/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0796-rotate-string](https://github.com/Kumari-dot/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [1528-shuffle-string](https://github.com/Kumari-dot/LeetCode-Solutions/tree/master/1528-shuffle-string) |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/Kumari-dot/LeetCode-Solutions/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/Kumari-dot/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Kumari-dot/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Kumari-dot/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
