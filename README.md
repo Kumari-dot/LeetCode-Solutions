@@ -61,14 +61,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Kumari-dot/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0258-add-digits](https://github.com/Kumari-dot/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [1952-three-divisors](https://github.com/Kumari-dot/LeetCode-Solutions/tree/master/1952-three-divisors) |
+| [2427-number-of-common-factors](https://github.com/Kumari-dot/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
 | [2544-alternating-digit-sum](https://github.com/Kumari-dot/LeetCode-Solutions/tree/master/2544-alternating-digit-sum) |
 ## Enumeration
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/Kumari-dot/LeetCode-Solutions/tree/master/1952-three-divisors) |
+| [2427-number-of-common-factors](https://github.com/Kumari-dot/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
 ## Number Theory
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Kumari-dot/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [1952-three-divisors](https://github.com/Kumari-dot/LeetCode-Solutions/tree/master/1952-three-divisors) |
+| [2427-number-of-common-factors](https://github.com/Kumari-dot/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
